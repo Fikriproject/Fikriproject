@@ -32,7 +32,7 @@
   <table>
     <tr>
       <td align="center" width="120">
-        <img src="https://techstack-generator.vercel.app/ionic-icon.svg" alt="Ionic" width="55" height="55" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" alt="Ionic" width="55" height="55" />
         <br><b>Ionic</b>
       </td>
       <td align="center" width="120">
