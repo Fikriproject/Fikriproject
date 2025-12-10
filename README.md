@@ -4,12 +4,12 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,23,24&height=280&section=header&text=Hi%20There!%20I'm%20Fikri&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=IoT%20Enthusiast%20%7C%20Ionic%20Developer%20%7C%20Creative%20Coder&descAlignY=62&descAlign=50" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,23,24&height=280&section=header&text=Hi%20There!%20I'm%20Fikri&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=IoT%20Enthusiast%20%7C%20IoT%20Developer%20%7C%20Creative%20Coder&descAlignY=62&descAlign=50" alt="Header" width="100%" />
 
   <br>
 
   <a href="https://github.com/Fikriproject">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Building+Smart+Systems...;Exploring+the+Future+of+IoT...;Crafting+Beautiful+Mobile+Apps..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&pause=1000&color=808080&center=true&vCenter=true&width=500&lines=Building+Smart+Systems...;Exploring+the+Future+of+IoT...;Crafting+Beautiful+Mobile+Apps..." alt="Typing SVG" />
   </a>
 
   <br><br>
