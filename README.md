@@ -52,6 +52,34 @@
         <br><b>Database</b>
       </td>
     </tr>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="55" height="55" />
+        <br><b>PHP</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="CodeIgniter" width="55" height="55" />
+        <br><b>CodeIgniter</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="55" height="55" />
+        <br><b>HTML5</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="55" height="55" />
+        <br><b>CSS3</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" height="55" />
+        <br><b>JavaScript</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120" colspan="5">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="55" height="55" />
+        <br><b>Python</b>
+      </td>
+    </tr>
   </table>
 
 </div>
